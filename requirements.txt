@@ -1,0 +1,9 @@
+scikit-learn
+pandas
+nltk
+spacy
+flask
+streamlit
+joblib
+PyPDF2
+python-docx
